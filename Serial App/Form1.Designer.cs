@@ -203,7 +203,7 @@ namespace Serial_App
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(89, 13);
             this.label2.TabIndex = 8;
-            this.label2.Text = "Перенос строки";
+            this.label2.Text = "new line";
             // 
             // label3
             // 
@@ -212,7 +212,7 @@ namespace Serial_App
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(93, 13);
             this.label3.TabIndex = 9;
-            this.label3.Text = "Возврат каретки";
+            this.label3.Text = "carriage return"
             // 
             // tableLayoutPanel3
             // 
